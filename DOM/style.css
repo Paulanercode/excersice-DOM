@@ -1,0 +1,27 @@
+img {
+  width: 500px;
+  height: 500px;
+  background-color: rgba(19, 18, 18, 0.927);
+  padding: 10px;
+  border-radius: 10px;
+}
+section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 50px;
+}
+
+div {
+  box-shadow: 0 0 20px 10px rgba(23, 38, 170, 0.859);
+  padding: 20px;
+}
+/*.img-special {
+  border: 3px solid red;
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}*/
